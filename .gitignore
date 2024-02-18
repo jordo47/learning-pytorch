@@ -1,0 +1,5 @@
+# ignore dataset folder
+data/
+
+# ignore generated network files
+*.pth
